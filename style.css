@@ -14,18 +14,76 @@ header {
   display: flex;
   width: 389px;
   margin-top: 50px;
-  margin-left: 30px;
+  margin-left: 46px;
 }
 
 #info1 {
-  padding: 30px;
+  margin-left: 46px;
+  margin-bottom: 8.56px;
   margin-top: 92px;
 }
 
 #info1 h2 {
   font-family: "Work Sans", sans-serif;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 28px;
   line-height: 28px;
   color: #08c05e;
+}
+
+span {
+  font-family: "Spartan", sans-serif;
+  font-weight: 700;
+  margin-left: 46px;
+  font-size: 20px;
+  line-height: 16px;
+}
+
+p {
+  font-family: "Spartan", sans-serif;
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 19px;
+  margin-left: 46px;
+  margin-top: 9px;
+}
+
+form {
+  font-family: "Spartan", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  margin-top: 50px;
+  margin-left: 46px;
+  color: #a8a8a8;
+  margin-bottom: 17px;
+}
+
+input {
+  margin-left: 46px;
+  width: 798px;
+  height: 48px;
+  left: 36px;
+  border-radius: 6px;
+}
+
+a li {
+  font-family: "Spartan", sans-serif;
+  font-weight: 700;
+  font-size: 18px;
+  display: inline-block;
+  margin-top: 50px;
+  margin-left: 46px;
+  margin-bottom: 232px;
+
+  color: #8257e5;
+}
+
+li:hover {
+  color: rgb(199, 164, 235);
+  transition: 0.3s all;
+}
+
+input:hover {
+  border: 3px solid #8257e5;
+  transition: 0.3s all;
 }
