@@ -18,7 +18,7 @@ RocketNews é um desafio da trilha de estudos do discover exclusivo e gratuito, 
 <br>
 
 <p align="center">
-  <img alt="Projeto RocketNews" src="./.github/capa.png" width="100%">
+  <img alt="Projeto RocketNews" src="./.github/Capa.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
